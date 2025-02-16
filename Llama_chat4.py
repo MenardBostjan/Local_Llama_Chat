@@ -109,3 +109,5 @@ while True:
 # except Exception as test_e:
     # print(f"**Error during basic test (create_chat_completion):** {test_e}")
     # print("--- End of Basic Test (create_chat_completion) ---")
+    
+    # THE CODE NEEDS SOME CLEANUP #
