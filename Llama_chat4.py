@@ -1,7 +1,7 @@
 from llama_cpp import Llama
 
 # --- Model Initialization ---
-MODEL_PATH = "C:/Users/menar/.cache/lm-studio/models/lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF/DeepSeek-R1-Distill-Qwen-7B-Q6_K.gguf"  # Replace with your actual model and path 
+MODEL_PATH = "C:/Users/menar/.cache/lm-studio/models/lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF/DeepSeek-R1-Distill-Qwen-7B-Q6_K.gguf"  # Replace with any other model and path 
 llm = Llama(
     model_path=MODEL_PATH,
     #n_ctx=130000,
